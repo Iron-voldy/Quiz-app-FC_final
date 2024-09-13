@@ -1,0 +1,2778 @@
+{
+  "quizzes": [
+    {
+      "title": "Model paper - Lecture 1: Computing Disciplines",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What is the primary focus of computer engineering?",
+          "options": [
+            "Designing software",
+            "Designing hardware",
+            "Developing AI",
+            "Developing business solutions"
+          ],
+          "answer": "Designing hardware"
+        },
+        {
+          "question": "Which discipline focuses on the integration of IT solutions with business processes?",
+          "options": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Systems",
+            "Cyber Security"
+          ],
+          "answer": "Information Systems"
+        },
+        {
+          "question": "Which computing discipline is associated with the development of embedded systems?",
+          "options": [
+            "Information Technology",
+            "Software Engineering",
+            "Computer Engineering",
+            "Data Science"
+          ],
+          "answer": "Computer Engineering"
+        },
+        {
+          "question": "Which of the following careers can a graduate of Software Engineering pursue?",
+          "options": [
+            "Firmware Engineer",
+            "Software Architect",
+            "Business Analyst",
+            "Data Analyst"
+          ],
+          "answer": "Software Architect"
+        },
+        {
+          "question": "Which computing discipline deals with protecting computer systems from cyber threats?",
+          "options": [
+            "Computer Science",
+            "Information Technology",
+            "Cyber Security",
+            "Interactive Media"
+          ],
+          "answer": "Cyber Security"
+        },
+        {
+          "question": "Which discipline covers 3D modeling and animation?",
+          "options": [
+            "Cyber Security",
+            "Interactive Media",
+            "Software Engineering",
+            "Data Science"
+          ],
+          "answer": "Interactive Media"
+        },
+        {
+          "question": "What is the primary goal of Software Engineering?",
+          "options": [
+            "Creating secure systems",
+            "Developing software systematically",
+            "Designing hardware systems",
+            "Managing business processes"
+          ],
+          "answer": "Developing software systematically"
+        },
+        {
+          "question": "What is a key area of focus in Information Systems?",
+          "options": [
+            "Developing hardware",
+            "Managing data",
+            "Integrating IT with business processes",
+            "Creating video games"
+          ],
+          "answer": "Integrating IT with business processes"
+        },
+        {
+          "question": "Which computing discipline is most concerned with data analysis and machine learning?",
+          "options": [
+            "Data Science",
+            "Cyber Security",
+            "Software Engineering",
+            "Computer Engineering"
+          ],
+          "answer": "Data Science"
+        },
+        {
+          "question": "Which career is a possible outcome for a graduate of Data Science?",
+          "options": [
+            "Data Scientist",
+            "Cybersecurity Analyst",
+            "Firmware Engineer",
+            "Web Developer"
+          ],
+          "answer": "Data Scientist"
+        },
+        {
+          "question": "Which computing discipline involves the study of computer architecture, networking, and embedded systems?",
+          "options": [
+            "Information Technology",
+            "Computer Engineering",
+            "Cyber Security",
+            "Software Engineering"
+          ],
+          "answer": "Computer Engineering"
+        },
+        {
+          "question": "In which computing discipline do professionals design and implement software systems?",
+          "options": [
+            "Computer Science",
+            "Information Systems",
+            "Software Engineering",
+            "Cyber Security"
+          ],
+          "answer": "Software Engineering"
+        },
+        {
+          "question": "What is a key characteristic of the Cyber Security discipline?",
+          "options": [
+            "Developing AI",
+            "Safeguarding digital assets",
+            "Creating user interfaces",
+            "Designing databases"
+          ],
+          "answer": "Safeguarding digital assets"
+        },
+        {
+          "question": "Which of the following is NOT a core focus of Computer Science?",
+          "options": [
+            "Bioinformatics",
+            "Computer Vision",
+            "Embedded Systems",
+            "User Experience Design"
+          ],
+          "answer": "User Experience Design"
+        },
+        {
+          "question": "Which computing discipline primarily deals with managing large-scale IT infrastructure?",
+          "options": [
+            "Software Engineering",
+            "Computer Science",
+            "Information Technology",
+            "Data Science"
+          ],
+          "answer": "Information Technology"
+        }
+      ]
+    },
+    {
+      "title": "Model paper - Lecture 2: Computer Architecture",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "Who developed the Analytical Engine?",
+          "options": [
+            "John von Neumann",
+            "Steve Jobs",
+            "Charles Babbage",
+            "Ada Lovelace"
+          ],
+          "answer": "Charles Babbage"
+        },
+        {
+          "question": "What was the Analytical Engine programmed with?",
+          "options": [
+            "Punched cards",
+            "Binary code",
+            "Python",
+            "Vacuum tubes"
+          ],
+          "answer": "Punched cards"
+        },
+        {
+          "question": "Which was the world’s first large-scale digital electronic general-purpose computer?",
+          "options": [
+            "Analytical Engine",
+            "ENIAC",
+            "IBM PC",
+            "8086"
+          ],
+          "answer": "ENIAC"
+        },
+        {
+          "question": "What technology did ENIAC use for its design?",
+          "options": [
+            "Transistors",
+            "Vacuum tubes",
+            "Semiconductors",
+            "Integrated circuits"
+          ],
+          "answer": "Vacuum tubes"
+        },
+        {
+          "question": "Which processor was introduced in 1981 as part of the IBM PC?",
+          "options": [
+            "Intel 4004",
+            "8088",
+            "8086",
+            "80386"
+          ],
+          "answer": "8088"
+        },
+        {
+          "question": "What was the data bus width of the 8086 processor?",
+          "options": [
+            "8 bits",
+            "16 bits",
+            "32 bits",
+            "64 bits"
+          ],
+          "answer": "16 bits"
+        },
+        {
+          "question": "Which processor is part of the x86 family?",
+          "options": [
+            "8086",
+            "8088",
+            "80286",
+            "80386"
+          ],
+          "answer": "8086"
+        },
+        {
+          "question": "Which of the following was a 16-bit processor released in 1984?",
+          "options": [
+            "8086",
+            "80386",
+            "80286",
+            "4004"
+          ],
+          "answer": "80286"
+        },
+        {
+          "question": "What feature did the 80286 processor introduce?",
+          "options": [
+            "Multiuser support",
+            "32-bit processing",
+            "Backwards compatibility with 80386",
+            "Data encryption"
+          ],
+          "answer": "Multiuser support"
+        },
+        {
+          "question": "Which of the following is a 32-bit processor?",
+          "options": [
+            "8086",
+            "8088",
+            "80386",
+            "80286"
+          ],
+          "answer": "80386"
+        },
+        {
+          "question": "What is the function of the Address Bus in modern computers?",
+          "options": [
+            "Transfer instructions",
+            "Transfer data",
+            "Specify the address of MM or I/O",
+            "Carry status signals"
+          ],
+          "answer": "Specify the address of MM or I/O"
+        },
+        {
+          "question": "Which bus is used to transfer data and instructions to and from the CPU?",
+          "options": [
+            "Address Bus",
+            "Data Bus",
+            "Control Bus",
+            "Command Bus"
+          ],
+          "answer": "Data Bus"
+        },
+        {
+          "question": "The 8088 processor had how many bits in its external data bus?",
+          "options": [
+            "8 bits",
+            "16 bits",
+            "32 bits",
+            "64 bits"
+          ],
+          "answer": "8 bits"
+        },
+        {
+          "question": "What year was the Intel 8086 microprocessor released?",
+          "options": [
+            "1975",
+            "1978",
+            "1981",
+            "1984"
+          ],
+          "answer": "1978"
+        },
+        {
+          "question": "Which unit in the 80386 processor handles fetching and decoding instructions?",
+          "options": [
+            "Bus Interface Unit",
+            "Code Fetch Unit",
+            "Execution Unit",
+            "Memory Management Unit"
+          ],
+          "answer": "Code Fetch Unit"
+        },
+        {
+          "question": "What was the clock frequency of the 8088 microprocessor used in the IBM PC?",
+          "options": [
+            "2.5 MHz",
+            "3.5 MHz",
+            "4.77 MHz",
+            "5 MHz"
+          ],
+          "answer": "4.77 MHz"
+        },
+        {
+          "question": "Which component in a computer system is responsible for arithmetic and logic operations?",
+          "options": [
+            "Memory",
+            "I/O system",
+            "ALU",
+            "Control unit"
+          ],
+          "answer": "ALU"
+        },
+        {
+          "question": "What is the key concept of the von Neumann architecture?",
+          "options": [
+            "Storing programs in memory",
+            "Separate memory for data and programs",
+            "Parallel processing",
+            "Quantum computing"
+          ],
+          "answer": "Storing programs in memory"
+        },
+        {
+          "question": "Which of the following describes the iPhone 1’s processor?",
+          "options": [
+            "64-bit ARM",
+            "32-bit ARM11",
+            "Intel i5",
+            "32-bit ARM Cortex"
+          ],
+          "answer": "32-bit ARM11"
+        },
+        {
+          "question": "What is the resolution of the screen of the first iPhone?",
+          "options": [
+            "320x480 pixels",
+            "400x600 pixels",
+            "640x480 pixels",
+            "1280x720 pixels"
+          ],
+          "answer": "320x480 pixels"
+        },
+        {
+          "question": "Who introduced the iPhone in 2007?",
+          "options": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Elon Musk"
+          ],
+          "answer": "Steve Jobs"
+        },
+        {
+          "question": "The iPhone's ARM11 processor supported which technology to improve video performance?",
+          "options": [
+            "Multi-core processing",
+            "SIMD",
+            "Hyper-threading",
+            "Integrated GPU"
+          ],
+          "answer": "SIMD"
+        },
+        {
+          "question": "Which microprocessor architecture did the 8088 implement?",
+          "options": [
+            "Von Neumann",
+            "Harvard",
+            "RISC",
+            "CISC"
+          ],
+          "answer": "Von Neumann"
+        },
+        {
+          "question": "Which of the following microprocessors had support for multitasking?",
+          "options": [
+            "8086",
+            "8088",
+            "80286",
+            "80386"
+          ],
+          "answer": "80286"
+        },
+        {
+          "question": "The ENIAC used which of the following technologies?",
+          "options": [
+            "Vacuum tubes",
+            "Transistors",
+            "Microchips",
+            "Quantum gates"
+          ],
+          "answer": "Vacuum tubes"
+        },
+        {
+          "question": "The 80386 microprocessor introduced how many functional units?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6"
+        },
+        {
+          "question": "Which of the following was NOT a feature of the first iPhone?",
+          "options": [
+            "3.5-inch screen",
+            "SIMD support",
+            "Multi-touch screen",
+            "5-megapixel camera"
+          ],
+          "answer": "5-megapixel camera"
+        },
+        {
+          "question": "Which of the following registers is NOT a general-purpose register in the 8086 processor?",
+          "options": [
+            "AX",
+            "BX",
+            "SP",
+            "CX"
+          ],
+          "answer": "SP"
+        },
+        {
+          "question": "What power source did the first iPhone use?",
+          "options": [
+            "Li-ion polymer battery",
+            "Alkaline battery",
+            "Solar panel",
+            "NiMH battery"
+          ],
+          "answer": "Li-ion polymer battery"
+        },
+        {
+          "question": "The first microprocessor developed by Intel was the 4004, designed for which application?",
+          "options": [
+            "General-purpose computers",
+            "Calculators",
+            "Mobile phones",
+            "Mainframes"
+          ],
+          "answer": "Calculators"
+        }
+      ]
+    },
+    {
+      "title": "Model paper - Lecture 3: Data Representation in Computers",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What does qualitative data represent?",
+          "options": [
+            "Numerical data",
+            "Descriptive data",
+            "Binary data",
+            "Hexadecimal data"
+          ],
+          "answer": "Descriptive data"
+        },
+        {
+          "question": "Which of the following is an example of a real (decimal) number?",
+          "options": [
+            "-2",
+            "0.23",
+            "100",
+            "7"
+          ],
+          "answer": "0.23"
+        },
+        {
+          "question": "What is digitization?",
+          "options": [
+            "Converting text into speech",
+            "Converting information into digital data",
+            "Converting data into binary",
+            "Converting decimal numbers into hexadecimal"
+          ],
+          "answer": "Converting information into digital data"
+        },
+        {
+          "question": "Computers are powered by electricity, which has how many discrete states?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "2"
+        },
+        {
+          "question": "What number system is used for processing in computers?",
+          "options": [
+            "Decimal",
+            "Hexadecimal",
+            "Octal",
+            "Binary"
+          ],
+          "answer": "Binary"
+        },
+        {
+          "question": "How many bits are in 1 byte?",
+          "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "8"
+        },
+        {
+          "question": "How many bytes are in 1 KB (Kilobyte)?",
+          "options": [
+            "1000",
+            "1024",
+            "2048",
+            "512"
+          ],
+          "answer": "1024"
+        },
+        {
+          "question": "In ASCII, how many bits are used to represent a character?",
+          "options": [
+            "7",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "7"
+        },
+        {
+          "question": "What does BCD stand for?",
+          "options": [
+            "Binary Code Decoder",
+            "Binary Coded Decimal",
+            "Binary Character Data",
+            "Bit Code Data"
+          ],
+          "answer": "Binary Coded Decimal"
+        },
+        {
+          "question": "How many characters can be represented in Extended ASCII?",
+          "options": [
+            "128",
+            "256",
+            "512",
+            "1024"
+          ],
+          "answer": "256"
+        },
+        {
+          "question": "Which system assigns a unique number for every character, regardless of platform or language?",
+          "options": [
+            "ASCII",
+            "Unicode",
+            "BCD",
+            "Hexadecimal"
+          ],
+          "answer": "Unicode"
+        },
+        {
+          "question": "How many bits are used in Unicode?",
+          "options": [
+            "8 bits",
+            "16 bits",
+            "24 bits",
+            "32 bits"
+          ],
+          "answer": "16 bits"
+        },
+        {
+          "question": "In hexadecimal, how many possible values can be represented by 4 bits?",
+          "options": [
+            "8",
+            "10",
+            "16",
+            "32"
+          ],
+          "answer": "16"
+        },
+        {
+          "question": "What is the primary purpose of the CPU in a computer system?",
+          "options": [
+            "Storing data",
+            "Performing data processing functions",
+            "Managing memory",
+            "Transferring data"
+          ],
+          "answer": "Performing data processing functions"
+        },
+        {
+          "question": "Which register in the 8086 microprocessor holds the address of the next instruction to be executed?",
+          "options": [
+            "AX",
+            "BX",
+            "Instruction Pointer (IP)",
+            "Data Segment (DS)"
+          ],
+          "answer": "Instruction Pointer (IP)"
+        },
+        {
+          "question": "Which register in the 8086 microprocessor holds flags for conditions such as zero or carry?",
+          "options": [
+            "AX",
+            "BX",
+            "Status Flag Register (FLAGS)",
+            "Instruction Pointer (IP)"
+          ],
+          "answer": "Status Flag Register (FLAGS)"
+        },
+        {
+          "question": "What does the 'D' bit indicate in the 8086 instruction format?",
+          "options": [
+            "Direction",
+            "Data",
+            "Double-word",
+            "Decimal"
+          ],
+          "answer": "Direction"
+        },
+        {
+          "question": "In the 8086 instruction format, what does the 'W' bit represent?",
+          "options": [
+            "Word",
+            "Write",
+            "Width",
+            "Window"
+          ],
+          "answer": "Word"
+        },
+        {
+          "question": "How many general-purpose registers does the 8086 microprocessor have?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "What is the first step in the instruction cycle?",
+          "options": [
+            "Execute cycle",
+            "Decode cycle",
+            "Fetch cycle",
+            "Store cycle"
+          ],
+          "answer": "Fetch cycle"
+        },
+        {
+          "question": "What is the primary goal of CISC (Complex Instruction Set Computer)?",
+          "options": [
+            "Complete tasks with simple instructions",
+            "Complete tasks in fewer lines of assembly",
+            "Use more RAM",
+            "Execute instructions in one clock cycle"
+          ],
+          "answer": "Complete tasks in fewer lines of assembly"
+        },
+        {
+          "question": "What is the primary characteristic of RISC (Reduced Instruction Set Computer)?",
+          "options": [
+            "Complex hardware",
+            "Low compiler workload",
+            "Simple instructions executed within one clock cycle",
+            "High-level instruction set"
+          ],
+          "answer": "Simple instructions executed within one clock cycle"
+        },
+        {
+          "question": "What type of data transfer is involved when data is transferred between the CPU and memory?",
+          "options": [
+            "Processor-I/O",
+            "Processor-memory",
+            "I/O-Processor",
+            "Direct Memory Access (DMA)"
+          ],
+          "answer": "Processor-memory"
+        },
+        {
+          "question": "Which of the following is NOT a data movement instruction in the 8086 instruction set?",
+          "options": [
+            "ADD",
+            "MOV",
+            "LOAD",
+            "STORE"
+          ],
+          "answer": "ADD"
+        },
+        {
+          "question": "Which of the following is a control flow instruction?",
+          "options": [
+            "ADD",
+            "CMP",
+            "JMP",
+            "OUT"
+          ],
+          "answer": "JMP"
+        },
+        {
+          "question": "Which instruction is used to compare two numbers in the 8086 instruction set?",
+          "options": [
+            "ADD",
+            "CMP",
+            "JMP",
+            "LOAD"
+          ],
+          "answer": "CMP"
+        },
+        {
+          "question": "What is the result of the CMP instruction?",
+          "options": [
+            "Addition",
+            "Subtraction",
+            "Comparison with no stored result",
+            "Multiplication"
+          ],
+          "answer": "Comparison with no stored result"
+        },
+        {
+          "question": "What is the maximum size of the memory segment that can be addressed by a 16-bit segment register in 8086?",
+          "options": [
+            "32KB",
+            "64KB",
+            "128KB",
+            "256KB"
+          ],
+          "answer": "64KB"
+        },
+        {
+          "question": "Which of the following registers is NOT a segment register in the 8086?",
+          "options": [
+            "CS",
+            "DS",
+            "ES",
+            "AX"
+          ],
+          "answer": "AX"
+        },
+        {
+          "question": "Which processor is an example of a Reduced Instruction Set Computer (RISC)?",
+          "options": [
+            "Intel 8086",
+            "ARM",
+            "IBM PC AT",
+            "Intel 80386"
+          ],
+          "answer": "ARM"
+        }
+      ]
+    },
+    {
+      "title": "Model paper - Lecture 4: Digital Logic I",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What is a basic property of conductive materials like copper?",
+          "options": [
+            "Inhibit electrical current",
+            "Conduct electrical current",
+            "Generate electrical current",
+            "Reflect electrical current"
+          ],
+          "answer": "Conduct electrical current"
+        },
+        {
+          "question": "Which of the following is NOT a conductive material?",
+          "options": [
+            "Copper",
+            "Glass",
+            "Gold",
+            "Silver"
+          ],
+          "answer": "Glass"
+        },
+        {
+          "question": "What is the continuous movement of electric charge through conductors called?",
+          "options": [
+            "Voltage",
+            "Resistance",
+            "Current",
+            "Capacitance"
+          ],
+          "answer": "Current"
+        },
+        {
+          "question": "What is the force motivating charge carriers to flow in a circuit called?",
+          "options": [
+            "Current",
+            "Resistance",
+            "Voltage",
+            "Inductance"
+          ],
+          "answer": "Voltage"
+        },
+        {
+          "question": "Which law states that voltage equals the product of current and resistance?",
+          "options": [
+            "Kirchhoff's Law",
+            "Ohm’s Law",
+            "Faraday's Law",
+            "Newton's Law"
+          ],
+          "answer": "Ohm’s Law"
+        },
+        {
+          "question": "What is a transistor primarily used for?",
+          "options": [
+            "As a power source",
+            "As a digital switch",
+            "To increase resistance",
+            "As an insulator"
+          ],
+          "answer": "As a digital switch"
+        },
+        {
+          "question": "Which terminal of a transistor controls the amount of current flow?",
+          "options": [
+            "Collector",
+            "Base",
+            "Emitter",
+            "Gate"
+          ],
+          "answer": "Base"
+        },
+        {
+          "question": "What does the emitter of a transistor do?",
+          "options": [
+            "Control current",
+            "Emit current",
+            "Store charge",
+            "Reduce resistance"
+          ],
+          "answer": "Emit current"
+        },
+        {
+          "question": "Which logic gate has an output of 1 only when all its inputs are 1?",
+          "options": [
+            "AND gate",
+            "OR gate",
+            "NOT gate",
+            "XOR gate"
+          ],
+          "answer": "AND gate"
+        },
+        {
+          "question": "What does Boolean algebra help with in digital circuits?",
+          "options": [
+            "Increase complexity",
+            "Design and simplify circuits",
+            "Convert binary to decimal",
+            "Increase cost"
+          ],
+          "answer": "Design and simplify circuits"
+        },
+        {
+          "question": "What type of circuit depends only on the current input and has no memory?",
+          "options": [
+            "Sequential circuit",
+            "Combinational circuit",
+            "Flip-flop",
+            "Latching circuit"
+          ],
+          "answer": "Combinational circuit"
+        },
+        {
+          "question": "Why do we simplify digital circuits?",
+          "options": [
+            "To increase resistance",
+            "To reduce power consumption and cost",
+            "To increase space",
+            "To decrease speed"
+          ],
+          "answer": "To reduce power consumption and cost"
+        },
+        {
+          "question": "Which method is NOT used to simplify digital logic circuits?",
+          "options": [
+            "Truth table",
+            "Boolean Algebra",
+            "Kirchhoff's Law",
+            "Karnaugh map"
+          ],
+          "answer": "Kirchhoff's Law"
+        },
+        {
+          "question": "What is a minterm in Boolean algebra?",
+          "options": [
+            "A simplified Boolean expression",
+            "A product term with all variables",
+            "A group of 0s",
+            "A Boolean variable"
+          ],
+          "answer": "A product term with all variables"
+        },
+        {
+          "question": "How are Boolean functions visualized in a K-map?",
+          "options": [
+            "Binary trees",
+            "Groups of 0s and 1s",
+            "Logic gates",
+            "Arrays"
+          ],
+          "answer": "Groups of 0s and 1s"
+        },
+        {
+          "question": "Who developed the Karnaugh map?",
+          "options": [
+            "Charles Babbage",
+            "John von Neumann",
+            "Maurice Karnaugh",
+            "George Boole"
+          ],
+          "answer": "Maurice Karnaugh"
+        },
+        {
+          "question": "What is the primary advantage of Karnaugh maps?",
+          "options": [
+            "Increase circuit complexity",
+            "Simplify Boolean expressions",
+            "Increase power usage",
+            "Reduce binary conversion"
+          ],
+          "answer": "Simplify Boolean expressions"
+        },
+        {
+          "question": "Which rule does NOT apply to Karnaugh map grouping?",
+          "options": [
+            "Groups can overlap",
+            "Groups can be diagonal",
+            "Groups must be powers of two",
+            "Groups must contain only 1s"
+          ],
+          "answer": "Groups can be diagonal"
+        },
+        {
+          "question": "What is the main goal of using Boolean algebra in circuit design?",
+          "options": [
+            "Increase cost",
+            "Decrease power usage",
+            "Simplify logic",
+            "Increase delay"
+          ],
+          "answer": "Simplify logic"
+        },
+        {
+          "question": "Which of the following is a combinational logic circuit?",
+          "options": [
+            "Flip-flop",
+            "Multiplexer",
+            "Latching circuit",
+            "Counter"
+          ],
+          "answer": "Multiplexer"
+        },
+        {
+          "question": "Which logic gate is known as the universal gate?",
+          "options": [
+            "AND gate",
+            "NAND gate",
+            "XOR gate",
+            "NOR gate"
+          ],
+          "answer": "NAND gate"
+        },
+        {
+          "question": "Which logic gate outputs a 1 when all inputs are 0?",
+          "options": [
+            "AND gate",
+            "OR gate",
+            "NAND gate",
+            "NOR gate"
+          ],
+          "answer": "NOR gate"
+        },
+        {
+          "question": "What is a don’t care condition in a K-map?",
+          "options": [
+            "Input variables that are ignored",
+            "Outputs that are irrelevant",
+            "A condition that must always be true",
+            "A result that always simplifies to 0"
+          ],
+          "answer": "Outputs that are irrelevant"
+        },
+        {
+          "question": "In Karnaugh maps, which group size is NOT valid?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": "5"
+        },
+        {
+          "question": "What is the purpose of grouping 1s in a K-map?",
+          "options": [
+            "To add complexity",
+            "To simplify Boolean expressions",
+            "To increase cost",
+            "To reduce power consumption"
+          ],
+          "answer": "To simplify Boolean expressions"
+        },
+        {
+          "question": "Which logic gate produces a high output only when its two inputs are different?",
+          "options": [
+            "AND gate",
+            "XOR gate",
+            "NOR gate",
+            "XNOR gate"
+          ],
+          "answer": "XOR gate"
+        },
+        {
+          "question": "What type of logic circuit is a flip-flop?",
+          "options": [
+            "Sequential",
+            "Combinational",
+            "Multiplexing",
+            "Analog"
+          ],
+          "answer": "Sequential"
+        },
+        {
+          "question": "Which Boolean expression represents an AND gate?",
+          "options": [
+            "A + B",
+            "A' + B'",
+            "AB",
+            "A XOR B"
+          ],
+          "answer": "AB"
+        },
+        {
+          "question": "How can Boolean expressions be minimized using Karnaugh maps?",
+          "options": [
+            "By grouping 1s into adjacent squares",
+            "By grouping 0s into diagonal squares",
+            "By increasing the number of variables",
+            "By reducing group sizes to 1"
+          ],
+          "answer": "By grouping 1s into adjacent squares"
+        },
+        {
+          "question": "In Boolean algebra, what is the complement of A?",
+          "options": [
+            "A",
+            "A+B",
+            "A'",
+            "AB"
+          ],
+          "answer": "A'"
+        }
+      ]
+    },
+    {
+      "title": "Model paper - Lecture 5: Digital Logic II",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What is the primary operation performed by a Half Adder?",
+          "options": [
+            "AND and OR operations",
+            "XOR and AND operations",
+            "NAND and NOR operations",
+            "XOR and OR operations"
+          ],
+          "answer": "XOR and AND operations"
+        },
+        {
+          "question": "What is the key difference between a Half Adder and a Full Adder?",
+          "options": [
+            "Half Adder handles one bit, Full Adder handles two",
+            "Full Adder includes a carry-in",
+            "Half Adder uses AND gate, Full Adder uses XOR gate",
+            "Full Adder has no carry-out"
+          ],
+          "answer": "Full Adder includes a carry-in"
+        },
+        {
+          "question": "What is a Full Adder used for in digital circuits?",
+          "options": [
+            "Subtraction",
+            "Multiplication",
+            "Addition with carry-in",
+            "Logical comparison"
+          ],
+          "answer": "Addition with carry-in"
+        },
+        {
+          "question": "Which of the following describes a shifter?",
+          "options": [
+            "A circuit that multiplies two binary numbers",
+            "A circuit that shifts bits left or right",
+            "A circuit that compares two inputs",
+            "A circuit that adds binary numbers"
+          ],
+          "answer": "A circuit that shifts bits left or right"
+        },
+        {
+          "question": "How is the shift direction controlled in a shifter circuit?",
+          "options": [
+            "With a control signal",
+            "With the carry bit",
+            "With a full adder",
+            "With a comparator"
+          ],
+          "answer": "With a control signal"
+        },
+        {
+          "question": "What is the function of a comparator in digital logic?",
+          "options": [
+            "To compare two inputs",
+            "To add binary numbers",
+            "To shift bits",
+            "To encode binary data"
+          ],
+          "answer": "To compare two inputs"
+        },
+        {
+          "question": "What type of gate is used in the simplest comparator circuit?",
+          "options": [
+            "AND",
+            "XOR",
+            "XNOR",
+            "OR"
+          ],
+          "answer": "XNOR"
+        },
+        {
+          "question": "What is the primary function of a binary decoder?",
+          "options": [
+            "Convert binary input to a single output",
+            "Convert binary information to multiple outputs",
+            "Perform logical addition",
+            "Multiply binary numbers"
+          ],
+          "answer": "Convert binary information to multiple outputs"
+        },
+        {
+          "question": "How many outputs does a 3-to-8 binary decoder have?",
+          "options": [
+            "3",
+            "8",
+            "4",
+            "16"
+          ],
+          "answer": "8"
+        },
+        {
+          "question": "What is the main purpose of a multiplexer (MUX)?",
+          "options": [
+            "To shift data",
+            "To select one of many inputs to send to output",
+            "To compare two data inputs",
+            "To encode binary data"
+          ],
+          "answer": "To select one of many inputs to send to output"
+        },
+        {
+          "question": "Which type of decoder expansion is used to create larger decoders?",
+          "options": [
+            "Combining XOR gates",
+            "Combining smaller decoders",
+            "Combining adders",
+            "Combining encoders"
+          ],
+          "answer": "Combining smaller decoders"
+        },
+        {
+          "question": "What is the inverse operation of a decoder?",
+          "options": [
+            "Multiplexing",
+            "Addition",
+            "Encoding",
+            "Shifting"
+          ],
+          "answer": "Encoding"
+        },
+        {
+          "question": "Which logic gates are used to implement a 3-bit encoder?",
+          "options": [
+            "AND gates",
+            "XOR gates",
+            "OR gates",
+            "NOR gates"
+          ],
+          "answer": "OR gates"
+        },
+        {
+          "question": "How many inputs does a 4-to-1 multiplexer have?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "What does a strobe signal do in a multiplexer?",
+          "options": [
+            "Enables the MUX",
+            "Performs the shift operation",
+            "Compares inputs",
+            "Adds two inputs"
+          ],
+          "answer": "Enables the MUX"
+        },
+        {
+          "question": "What is a Programmable Logic Array (PLA) used for?",
+          "options": [
+            "Simplifying Boolean functions",
+            "Converting decimal to binary",
+            "Performing shifts",
+            "Converting inputs to outputs"
+          ],
+          "answer": "Simplifying Boolean functions"
+        },
+        {
+          "question": "How does a PLA implement Boolean functions?",
+          "options": [
+            "Using AND and OR gates",
+            "Using XOR and XNOR gates",
+            "Using comparators",
+            "Using shift registers"
+          ],
+          "answer": "Using AND and OR gates"
+        },
+        {
+          "question": "What is the purpose of blowing fuses in a PLA?",
+          "options": [
+            "To reduce power",
+            "To program Boolean functions",
+            "To increase clock speed",
+            "To disable the circuit"
+          ],
+          "answer": "To program Boolean functions"
+        },
+        {
+          "question": "Which Boolean expression can a PLA implement?",
+          "options": [
+            "Any function in sum-of-products form",
+            "Only addition",
+            "Only subtraction",
+            "Any product-of-sums expression"
+          ],
+          "answer": "Any function in sum-of-products form"
+        },
+        {
+          "question": "What does the Arithmetic and Logic Unit (ALU) in a CPU do?",
+          "options": [
+            "Performs shifts and rotates",
+            "Performs arithmetic and logic operations",
+            "Stores data",
+            "Manages power usage"
+          ],
+          "answer": "Performs arithmetic and logic operations"
+        },
+        {
+          "question": "Which circuit is used in the ALU to perform addition?",
+          "options": [
+            "Comparator",
+            "Full Adder",
+            "Shift Register",
+            "Encoder"
+          ],
+          "answer": "Full Adder"
+        },
+        {
+          "question": "How does the ALU handle AND and OR operations?",
+          "options": [
+            "Using XOR gates",
+            "Using logic gates",
+            "Using PLA",
+            "Using encoders"
+          ],
+          "answer": "Using logic gates"
+        },
+        {
+          "question": "What does the carry-out signal do in an ALU?",
+          "options": [
+            "Carries data to memory",
+            "Indicates overflow",
+            "Selects multiplexer output",
+            "Shifts data left"
+          ],
+          "answer": "Indicates overflow"
+        },
+        {
+          "question": "What is the role of the control unit in relation to the ALU?",
+          "options": [
+            "Performing shifts",
+            "Directing the operations",
+            "Encoding inputs",
+            "Storing results"
+          ],
+          "answer": "Directing the operations"
+        },
+        {
+          "question": "How many ALU blocks are needed for a CPU with 8-bit words?",
+          "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "8"
+        },
+        {
+          "question": "What does the term 'combinational circuit' refer to?",
+          "options": [
+            "A circuit that retains memory",
+            "A circuit whose output depends only on the current input",
+            "A circuit that performs sequential operations",
+            "A circuit that shifts data"
+          ],
+          "answer": "A circuit whose output depends only on the current input"
+        },
+        {
+          "question": "Which of the following is a characteristic of combinational circuits?",
+          "options": [
+            "They have feedback",
+            "They depend on current inputs",
+            "They store previous states",
+            "They always include memory elements"
+          ],
+          "answer": "They depend on current inputs"
+        },
+        {
+          "question": "Which component is at the heart of any CPU?",
+          "options": [
+            "Shifter",
+            "Comparator",
+            "ALU",
+            "Decoder"
+          ],
+          "answer": "ALU"
+        },
+        {
+          "question": "What does the output of a half-adder circuit consist of?",
+          "options": [
+            "Sum and carry-out",
+            "Sum and carry-in",
+            "Product and sum",
+            "Shifted bit"
+          ],
+          "answer": "Sum and carry-out"
+        }
+      ]
+    },
+    {
+      "title": "Model paper - Lecture 6: Digital Logic III",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What is the primary function of a latch in digital circuits?",
+          "options": [
+            "Perform arithmetic operations",
+            "Store a single bit of data",
+            "Shift data",
+            "Compare binary inputs"
+          ],
+          "answer": "Store a single bit of data"
+        },
+        {
+          "question": "Which digital components are used to build latches?",
+          "options": [
+            "Multiplexers",
+            "Transistors",
+            "Logic gates",
+            "Comparators"
+          ],
+          "answer": "Logic gates"
+        },
+        {
+          "question": "What is the function of a clock signal in sequential circuits?",
+          "options": [
+            "Control the timing of circuit operations",
+            "Store data in memory",
+            "Shift data between registers",
+            "Compare logic levels"
+          ],
+          "answer": "Control the timing of circuit operations"
+        },
+        {
+          "question": "What is the key feature of a flip-flop compared to a latch?",
+          "options": [
+            "It stores multiple bits",
+            "It is edge-triggered",
+            "It operates without a clock",
+            "It performs arithmetic operations"
+          ],
+          "answer": "It is edge-triggered"
+        },
+        {
+          "question": "Which type of flip-flop changes its state on the rising edge of the clock?",
+          "options": [
+            "SR Flip-flop",
+            "D Flip-flop",
+            "Edge-triggered flip-flop",
+            "Level-triggered flip-flop"
+          ],
+          "answer": "Edge-triggered flip-flop"
+        },
+        {
+          "question": "What is the setup time in flip-flop circuits?",
+          "options": [
+            "The minimum time the D input must be stable before the clock transition",
+            "The time required for the circuit to turn on",
+            "The delay between input and output change",
+            "The time it takes for a signal to propagate"
+          ],
+          "answer": "The minimum time the D input must be stable before the clock transition"
+        },
+        {
+          "question": "What does the hold time in a flip-flop represent?",
+          "options": [
+            "The time after the clock transition during which the D input must remain stable",
+            "The delay between clock and output",
+            "The time to store data",
+            "The clock signal propagation delay"
+          ],
+          "answer": "The time after the clock transition during which the D input must remain stable"
+        },
+        {
+          "question": "Which sequential circuit consists of flip-flops and gates?",
+          "options": [
+            "Combinational circuits",
+            "Sequential circuits",
+            "Shift registers",
+            "Multiplexers"
+          ],
+          "answer": "Sequential circuits"
+        },
+        {
+          "question": "What is a shift register used for in digital logic?",
+          "options": [
+            "Storing multiple bits",
+            "Shifting data between flip-flops",
+            "Performing addition",
+            "Comparing logic levels"
+          ],
+          "answer": "Shifting data between flip-flops"
+        },
+        {
+          "question": "What is a ring counter?",
+          "options": [
+            "A circuit that shifts data in a circular manner",
+            "A circuit that adds binary numbers",
+            "A flip-flop with feedback",
+            "A comparator for binary inputs"
+          ],
+          "answer": "A circuit that shifts data in a circular manner"
+        },
+        {
+          "question": "Which type of flip-flop is commonly used for storing data in registers?",
+          "options": [
+            "SR Flip-flop",
+            "D Flip-flop",
+            "JK Flip-flop",
+            "T Flip-flop"
+          ],
+          "answer": "D Flip-flop"
+        },
+        {
+          "question": "What happens when the Q output of one flip-flop is connected to the D input of another flip-flop?",
+          "options": [
+            "Data is transferred sequentially",
+            "The circuit compares logic levels",
+            "The flip-flop resets",
+            "Data is added together"
+          ],
+          "answer": "Data is transferred sequentially"
+        },
+        {
+          "question": "What is the purpose of a register in digital circuits?",
+          "options": [
+            "Storing data",
+            "Performing arithmetic operations",
+            "Shifting data",
+            "Comparing inputs"
+          ],
+          "answer": "Storing data"
+        },
+        {
+          "question": "What are registers used for in processors?",
+          "options": [
+            "Storing and loading data",
+            "Comparing logic values",
+            "Shifting bits",
+            "Performing arithmetic"
+          ],
+          "answer": "Storing and loading data"
+        },
+        {
+          "question": "Which input in a D flip-flop triggers the transfer of data to the output?",
+          "options": [
+            "Data input",
+            "Enable input",
+            "Clock input",
+            "Set input"
+          ],
+          "answer": "Clock input"
+        },
+        {
+          "question": "What are flip-flops used for in sequential circuits?",
+          "options": [
+            "Adding two binary numbers",
+            "Storing and shifting data",
+            "Performing logical operations",
+            "Encoding binary data"
+          ],
+          "answer": "Storing and shifting data"
+        },
+        {
+          "question": "What is the main difference between latches and flip-flops?",
+          "options": [
+            "Latches are edge-triggered, flip-flops are level-triggered",
+            "Flip-flops are clocked, latches are not",
+            "Latches store multiple bits, flip-flops store single bits",
+            "Flip-flops operate faster than latches"
+          ],
+          "answer": "Flip-flops are clocked, latches are not"
+        },
+        {
+          "question": "What is the result of a rising edge transition in an edge-triggered flip-flop?",
+          "options": [
+            "The output remains unchanged",
+            "The data is transferred to the output",
+            "The circuit resets",
+            "The clock is delayed"
+          ],
+          "answer": "The data is transferred to the output"
+        },
+        {
+          "question": "Which flip-flop is primarily used in memory storage devices?",
+          "options": [
+            "D Flip-flop",
+            "SR Flip-flop",
+            "JK Flip-flop",
+            "T Flip-flop"
+          ],
+          "answer": "D Flip-flop"
+        },
+        {
+          "question": "How is a sequential circuit different from a combinational circuit?",
+          "options": [
+            "Sequential circuits have memory, combinational circuits do not",
+            "Sequential circuits are faster",
+            "Combinational circuits use flip-flops",
+            "Sequential circuits perform logical comparisons"
+          ],
+          "answer": "Sequential circuits have memory, combinational circuits do not"
+        },
+        {
+          "question": "What is a key characteristic of a shift register?",
+          "options": [
+            "Data moves in parallel",
+            "Data moves sequentially through flip-flops",
+            "It compares two inputs",
+            "It performs arithmetic operations"
+          ],
+          "answer": "Data moves sequentially through flip-flops"
+        },
+        {
+          "question": "What is the function of the S and R inputs in an SR latch?",
+          "options": [
+            "Set and reset the output",
+            "Shift data between inputs",
+            "Compare inputs",
+            "Perform arithmetic"
+          ],
+          "answer": "Set and reset the output"
+        },
+        {
+          "question": "In which type of circuit are flip-flops used to implement state machines?",
+          "options": [
+            "Sequential circuits",
+            "Combinational circuits",
+            "Multiplexing circuits",
+            "Comparators"
+          ],
+          "answer": "Sequential circuits"
+        },
+        {
+          "question": "Which signal is used to synchronize data transfer in flip-flops?",
+          "options": [
+            "Data input",
+            "Enable input",
+            "Clock signal",
+            "Reset input"
+          ],
+          "answer": "Clock signal"
+        },
+        {
+          "question": "What is the propagation delay in a flip-flop?",
+          "options": [
+            "The time between clock input and output response",
+            "The time it takes to store data",
+            "The delay between data input and clock signal",
+            "The time to reset the circuit"
+          ],
+          "answer": "The time between clock input and output response"
+        },
+        {
+          "question": "Which of the following describes a clocked synchronous sequential circuit?",
+          "options": [
+            "A circuit controlled by a clock signal",
+            "A circuit with no memory",
+            "A circuit that performs logical comparisons",
+            "A circuit with asynchronous inputs"
+          ],
+          "answer": "A circuit controlled by a clock signal"
+        },
+        {
+          "question": "What is the purpose of connecting flip-flops in series in a shift register?",
+          "options": [
+            "To perform parallel-to-serial conversion",
+            "To compare binary inputs",
+            "To perform arithmetic operations",
+            "To control clock signals"
+          ],
+          "answer": "To perform parallel-to-serial conversion"
+        },
+        {
+          "question": "How many clock cycles are needed to transfer data through a 4-bit shift register?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "Which flip-flop circuit is used for constructing ring counters?",
+          "options": [
+            "D Flip-flop",
+            "SR Flip-flop",
+            "JK Flip-flop",
+            "T Flip-flop"
+          ],
+          "answer": "D Flip-flop"
+        },
+        {
+          "question": "What is the role of a register in a processor?",
+          "options": [
+            "Perform addition",
+            "Shift data",
+            "Store and transfer data",
+            "Compare logic values"
+          ],
+          "answer": "Store and transfer data"
+        }
+      ]
+    },
+    {
+      "title": "Guessing Paper 1",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "What is the primary function of a Full Adder?",
+          "options": [
+            "Subtraction",
+            "Addition with carry-in",
+            "Logical comparison",
+            "Multiplication"
+          ],
+          "answer": "Addition with carry-in"
+        },
+        {
+          "question": "How many outputs does a 3-to-8 decoder have?",
+          "options": [
+            "3",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "8"
+        },
+        {
+          "question": "Which gate has an output of 1 only when all inputs are 1?",
+          "options": [
+            "OR gate",
+            "AND gate",
+            "NOR gate",
+            "XOR gate"
+          ],
+          "answer": "AND gate"
+        },
+        {
+          "question": "How many bits are in 1 byte?",
+          "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "8"
+        },
+        {
+          "question": "What is the hexadecimal equivalent of binary 1111?",
+          "options": [
+            "F",
+            "A",
+            "1",
+            "8"
+          ],
+          "answer": "F"
+        },
+        {
+          "question": "What is the clock signal's role in sequential circuits?",
+          "options": [
+            "Store data",
+            "Perform arithmetic",
+            "Control timing",
+            "Shift data"
+          ],
+          "answer": "Control timing"
+        },
+        {
+          "question": "Which circuit is used for parallel-to-serial conversion?",
+          "options": [
+            "Decoder",
+            "Shift register",
+            "Multiplexer",
+            "Latch"
+          ],
+          "answer": "Shift register"
+        },
+        {
+          "question": "How many bits can be represented by ASCII?",
+          "options": [
+            "7",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "7"
+        },
+        {
+          "question": "What is the default number system for computers?",
+          "options": [
+            "Binary",
+            "Decimal",
+            "Octal",
+            "Hexadecimal"
+          ],
+          "answer": "Binary"
+        },
+        {
+          "question": "Which of the following is a characteristic of a combinational circuit?",
+          "options": [
+            "Has memory",
+            "Depends on past input",
+            "Depends on current input",
+            "Has feedback"
+          ],
+          "answer": "Depends on current input"
+        },
+        {
+          "question": "Which flip-flop is edge-triggered?",
+          "options": [
+            "SR flip-flop",
+            "T flip-flop",
+            "JK flip-flop",
+            "D flip-flop"
+          ],
+          "answer": "D flip-flop"
+        },
+        {
+          "question": "What is the result of the Boolean expression A + A'?",
+          "options": [
+            "1",
+            "0",
+            "A",
+            "A'"
+          ],
+          "answer": "1"
+        },
+        {
+          "question": "What is the main purpose of an encoder?",
+          "options": [
+            "Convert binary to decimal",
+            "Convert multiple inputs to one output",
+            "Shift data",
+            "Compare binary inputs"
+          ],
+          "answer": "Convert multiple inputs to one output"
+        },
+        {
+          "question": "Which is NOT a characteristic of a flip-flop?",
+          "options": [
+            "Edge-triggered",
+            "Stores data",
+            "Level-triggered",
+            "Used in sequential circuits"
+          ],
+          "answer": "Level-triggered"
+        },
+        {
+          "question": "Which component is used for storing multiple bits of data?",
+          "options": [
+            "Shift register",
+            "Multiplexer",
+            "Latch",
+            "Register"
+          ],
+          "answer": "Register"
+        },
+        {
+          "question": "What is the primary function of an ALU?",
+          "options": [
+            "Store data",
+            "Perform arithmetic and logic operations",
+            "Compare inputs",
+            "Shift data"
+          ],
+          "answer": "Perform arithmetic and logic operations"
+        },
+        {
+          "question": "What does a carry-out signal indicate in an ALU?",
+          "options": [
+            "Overflow",
+            "Shift complete",
+            "Comparison result",
+            "Data transfer complete"
+          ],
+          "answer": "Overflow"
+        },
+        {
+          "question": "How is Boolean algebra used in digital circuits?",
+          "options": [
+            "To add complexity",
+            "To simplify logic",
+            "To shift data",
+            "To store values"
+          ],
+          "answer": "To simplify logic"
+        },
+        {
+          "question": "Which of the following is NOT a logic gate?",
+          "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "MULT"
+          ],
+          "answer": "MULT"
+        },
+        {
+          "question": "Which law in Boolean algebra states A + A' = 1?",
+          "options": [
+            "Distributive law",
+            "Idempotent law",
+            "Complement law",
+            "De Morgan's law"
+          ],
+          "answer": "Complement law"
+        },
+        {
+          "question": "What is the primary use of Karnaugh maps?",
+          "options": [
+            "Perform arithmetic",
+            "Simplify Boolean expressions",
+            "Store binary data",
+            "Shift bits"
+          ],
+          "answer": "Simplify Boolean expressions"
+        },
+        {
+          "question": "What is the hexadecimal equivalent of binary 1010?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What is the decimal equivalent of hexadecimal F?",
+          "options": [
+            "15",
+            "10",
+            "16",
+            "8"
+          ],
+          "answer": "15"
+        },
+        {
+          "question": "Which flip-flop is used for counters?",
+          "options": [
+            "T flip-flop",
+            "JK flip-flop",
+            "D flip-flop",
+            "SR flip-flop"
+          ],
+          "answer": "T flip-flop"
+        },
+        {
+          "question": "What is the purpose of the S and R inputs in an SR latch?",
+          "options": [
+            "Store data",
+            "Set and reset the output",
+            "Compare inputs",
+            "Perform arithmetic"
+          ],
+          "answer": "Set and reset the output"
+        },
+        {
+          "question": "Which type of shift register shifts data to the right?",
+          "options": [
+            "Left shifter",
+            "Right shifter",
+            "Parallel shifter",
+            "Bidirectional shifter"
+          ],
+          "answer": "Right shifter"
+        },
+        {
+          "question": "What is the Boolean expression for an AND gate?",
+          "options": [
+            "A + B",
+            "A'B'",
+            "AB",
+            "A XOR B"
+          ],
+          "answer": "AB"
+        },
+        {
+          "question": "Which gate produces a high output only when both inputs are high?",
+          "options": [
+            "AND",
+            "OR",
+            "NOR",
+            "XOR"
+          ],
+          "answer": "AND"
+        },
+        {
+          "question": "What is a don’t care condition in a Karnaugh map?",
+          "options": [
+            "Input variables that are ignored",
+            "Outputs that are irrelevant",
+            "A condition that must always be true",
+            "A result that always simplifies to 1"
+          ],
+          "answer": "Outputs that are irrelevant"
+        },
+        {
+          "question": "What type of logic circuit is a flip-flop?",
+          "options": [
+            "Combinational",
+            "Sequential",
+            "Analog",
+            "Multiplexing"
+          ],
+          "answer": "Sequential"
+        },
+        {
+          "question": "How many 1s are in the binary representation of the decimal number 7?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3"
+        },
+        {
+          "question": "Which device selects one of many inputs and directs it to the output?",
+          "options": [
+            "Encoder",
+            "Decoder",
+            "Multiplexer",
+            "Demultiplexer"
+          ],
+          "answer": "Multiplexer"
+        },
+        {
+          "question": "What is the purpose of an arithmetic shift in digital logic?",
+          "options": [
+            "To add two numbers",
+            "To multiply or divide by powers of two",
+            "To compare two numbers",
+            "To store data"
+          ],
+          "answer": "To multiply or divide by powers of two"
+        },
+        {
+          "question": "Which of the following is a characteristic of RISC architecture?",
+          "options": [
+            "Complex instructions",
+            "Simple instructions",
+            "Multiple memory access",
+            "Very high clock speed"
+          ],
+          "answer": "Simple instructions"
+        },
+        {
+          "question": "What is the decimal value of the binary number 1010?",
+          "options": [
+            "10",
+            "12",
+            "14",
+            "15"
+          ],
+          "answer": "10"
+        },
+        {
+          "question": "What is the function of a comparator in digital circuits?",
+          "options": [
+            "Perform arithmetic",
+            "Compare two inputs",
+            "Store binary data",
+            "Shift data"
+          ],
+          "answer": "Compare two inputs"
+        }
+      ]
+    },
+    {
+      "title": "Guessing Paper 2",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "Which gate produces a high output only when both inputs are 0?",
+          "options": [
+            "NOR gate",
+            "XOR gate",
+            "AND gate",
+            "NAND gate"
+          ],
+          "answer": "NOR gate"
+        },
+        {
+          "question": "What is the primary function of a flip-flop in sequential circuits?",
+          "options": [
+            "Store a single bit of data",
+            "Perform addition",
+            "Shift data",
+            "Perform comparison"
+          ],
+          "answer": "Store a single bit of data"
+        },
+        {
+          "question": "What does the carry-out signal in a full adder indicate?",
+          "options": [
+            "Overflow",
+            "No carry",
+            "Shift completed",
+            "Result is zero"
+          ],
+          "answer": "Overflow"
+        },
+        {
+          "question": "Which of the following is a characteristic of sequential circuits?",
+          "options": [
+            "No memory",
+            "Depends on past inputs",
+            "Only combinational gates",
+            "Depends on current input"
+          ],
+          "answer": "Depends on past inputs"
+        },
+        {
+          "question": "Which Boolean expression simplifies the XOR operation?",
+          "options": [
+            "A + B",
+            "A XOR B",
+            "AB + A'B'",
+            "A' + B'"
+          ],
+          "answer": "AB + A'B'"
+        },
+        {
+          "question": "What is the purpose of Karnaugh maps?",
+          "options": [
+            "To perform multiplication",
+            "To simplify Boolean expressions",
+            "To add binary numbers",
+            "To store data"
+          ],
+          "answer": "To simplify Boolean expressions"
+        },
+        {
+          "question": "How many outputs does a 4-to-16 decoder have?",
+          "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+          ],
+          "answer": "16"
+        },
+        {
+          "question": "Which logic gate is called the universal gate?",
+          "options": [
+            "XOR gate",
+            "AND gate",
+            "NOR gate",
+            "NAND gate"
+          ],
+          "answer": "NAND gate"
+        },
+        {
+          "question": "Which Boolean expression is equivalent to the NOR gate?",
+          "options": [
+            "A'B'",
+            "(A + B)'",
+            "A + B",
+            "AB"
+          ],
+          "answer": "(A + B)'"
+        },
+        {
+          "question": "What is the binary equivalent of decimal 9?",
+          "options": [
+            "1000",
+            "1001",
+            "1010",
+            "1100"
+          ],
+          "answer": "1001"
+        },
+        {
+          "question": "Which type of flip-flop is used in a shift register?",
+          "options": [
+            "SR flip-flop",
+            "D flip-flop",
+            "T flip-flop",
+            "JK flip-flop"
+          ],
+          "answer": "D flip-flop"
+        },
+        {
+          "question": "What is the purpose of the clock signal in a sequential circuit?",
+          "options": [
+            "Control circuit operations",
+            "Store binary data",
+            "Perform arithmetic",
+            "Shift bits"
+          ],
+          "answer": "Control circuit operations"
+        },
+        {
+          "question": "What is a combinational circuit?",
+          "options": [
+            "A circuit with memory",
+            "A circuit whose output depends only on current input",
+            "A circuit with feedback",
+            "A sequential circuit"
+          ],
+          "answer": "A circuit whose output depends only on current input"
+        },
+        {
+          "question": "What is the main purpose of an ALU?",
+          "options": [
+            "Perform arithmetic and logic operations",
+            "Store binary data",
+            "Shift data",
+            "Compare two inputs"
+          ],
+          "answer": "Perform arithmetic and logic operations"
+        },
+        {
+          "question": "How many general-purpose registers are in the 8086 microprocessor?",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "Which of the following is an arithmetic shift used for?",
+          "options": [
+            "Shift data",
+            "Multiply or divide by powers of two",
+            "Compare two inputs",
+            "Store data in memory"
+          ],
+          "answer": "Multiply or divide by powers of two"
+        },
+        {
+          "question": "What is the role of an encoder?",
+          "options": [
+            "Convert multiple inputs to one output",
+            "Perform shifts",
+            "Store binary data",
+            "Compare logic levels"
+          ],
+          "answer": "Convert multiple inputs to one output"
+        },
+        {
+          "question": "Which type of flip-flop is used to construct counters?",
+          "options": [
+            "T flip-flop",
+            "D flip-flop",
+            "JK flip-flop",
+            "SR flip-flop"
+          ],
+          "answer": "T flip-flop"
+        },
+        {
+          "question": "What does the term 'combinational circuit' refer to?",
+          "options": [
+            "A circuit that retains memory",
+            "A circuit whose output depends only on the current input",
+            "A circuit that performs sequential operations",
+            "A circuit that shifts data"
+          ],
+          "answer": "A circuit whose output depends only on the current input"
+        },
+        {
+          "question": "What is the key feature of the D flip-flop?",
+          "options": [
+            "Edge-triggered",
+            "Level-triggered",
+            "Stores multiple bits",
+            "No clock required"
+          ],
+          "answer": "Edge-triggered"
+        },
+        {
+          "question": "How many clock cycles are required to shift data through a 4-bit shift register?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "Which digital circuit is used for comparing two binary numbers?",
+          "options": [
+            "Shift register",
+            "Multiplexer",
+            "Comparator",
+            "Encoder"
+          ],
+          "answer": "Comparator"
+        },
+        {
+          "question": "What is the hexadecimal representation of binary 1011?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Which gate produces a 1 when both inputs are different?",
+          "options": [
+            "AND gate",
+            "XOR gate",
+            "OR gate",
+            "NAND gate"
+          ],
+          "answer": "XOR gate"
+        },
+        {
+          "question": "What is the function of a comparator in digital logic?",
+          "options": [
+            "Add two binary numbers",
+            "Compare two inputs",
+            "Shift data",
+            "Store binary data"
+          ],
+          "answer": "Compare two inputs"
+        },
+        {
+          "question": "What is the binary equivalent of decimal 12?",
+          "options": [
+            "1100",
+            "1010",
+            "1110",
+            "1101"
+          ],
+          "answer": "1100"
+        },
+        {
+          "question": "Which Boolean law is used to simplify AB + A'B'?",
+          "options": [
+            "Distributive law",
+            "De Morgan's law",
+            "Idempotent law",
+            "Complement law"
+          ],
+          "answer": "Distributive law"
+        },
+        {
+          "question": "What is a characteristic of sequential circuits?",
+          "options": [
+            "They depend only on current input",
+            "They retain memory",
+            "They use logic gates only",
+            "They have no feedback"
+          ],
+          "answer": "They retain memory"
+        },
+        {
+          "question": "Which Boolean law states A + A' = 1?",
+          "options": [
+            "Distributive law",
+            "Idempotent law",
+            "Complement law",
+            "De Morgan's law"
+          ],
+          "answer": "Complement law"
+        },
+        {
+          "question": "Which digital circuit is used to perform subtraction?",
+          "options": [
+            "Half adder",
+            "Full adder",
+            "Comparator",
+            "ALU"
+          ],
+          "answer": "ALU"
+        },
+        {
+          "question": "What is the output of a NOR gate if both inputs are 1?",
+          "options": [
+            "0",
+            "1",
+            "Indeterminate",
+            "Depends on the clock"
+          ],
+          "answer": "0"
+        },
+        {
+          "question": "What is the binary equivalent of hexadecimal F?",
+          "options": [
+            "1111",
+            "1010",
+            "1100",
+            "1001"
+          ],
+          "answer": "1111"
+        },
+        {
+          "question": "How many general-purpose registers are in the 8086 microprocessor?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "What is the primary use of a latch in digital circuits?",
+          "options": [
+            "Store a single bit of data",
+            "Perform arithmetic",
+            "Shift data",
+            "Compare binary inputs"
+          ],
+          "answer": "Store a single bit of data"
+        },
+        {
+          "question": "What is the primary use of a decoder in digital logic?",
+          "options": [
+            "Convert binary information into multiple outputs",
+            "Store data",
+            "Compare inputs",
+            "Perform addition"
+          ],
+          "answer": "Convert binary information into multiple outputs"
+        },
+        {
+          "question": "What is a don’t care condition in Boolean logic?",
+          "options": [
+            "Outputs that are irrelevant",
+            "Inputs that are ignored",
+            "Conditions that must always be true",
+            "Results that simplify to 0"
+          ],
+          "answer": "Outputs that are irrelevant"
+        }
+      ]
+    },
+    {
+      "title": "Guessing Paper 3",
+      "icon": "./assets/images/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "Which gate produces a high output when at least one input is 1?",
+          "options": [
+            "AND gate",
+            "OR gate",
+            "XOR gate",
+            "NAND gate"
+          ],
+          "answer": "OR gate"
+        },
+        {
+          "question": "What is the binary equivalent of decimal 14?",
+          "options": [
+            "1000",
+            "1110",
+            "1011",
+            "1100"
+          ],
+          "answer": "1110"
+        },
+        {
+          "question": "Which type of flip-flop is used in data registers?",
+          "options": [
+            "SR flip-flop",
+            "D flip-flop",
+            "JK flip-flop",
+            "T flip-flop"
+          ],
+          "answer": "D flip-flop"
+        },
+        {
+          "question": "What does a carry-out signal indicate in a full adder?",
+          "options": [
+            "Overflow",
+            "No carry",
+            "Result is zero",
+            "Shift completed"
+          ],
+          "answer": "Overflow"
+        },
+        {
+          "question": "How many inputs does a 4-to-1 multiplexer have?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "Which circuit is used to compare two binary numbers?",
+          "options": [
+            "Decoder",
+            "Comparator",
+            "Multiplexer",
+            "Shift register"
+          ],
+          "answer": "Comparator"
+        },
+        {
+          "question": "Which Boolean expression represents the XOR gate?",
+          "options": [
+            "A + B",
+            "AB + A'B'",
+            "A' + B'",
+            "AB"
+          ],
+          "answer": "AB + A'B'"
+        },
+        {
+          "question": "What is the function of a clock signal in sequential circuits?",
+          "options": [
+            "Shift data",
+            "Store binary data",
+            "Control timing of operations",
+            "Perform comparison"
+          ],
+          "answer": "Control timing of operations"
+        },
+        {
+          "question": "What is the hexadecimal equivalent of binary 1100?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "Which circuit is used for shifting data in sequential circuits?",
+          "options": [
+            "Comparator",
+            "Shift register",
+            "Multiplexer",
+            "Adder"
+          ],
+          "answer": "Shift register"
+        },
+        {
+          "question": "How many 1s are in the binary representation of the decimal number 13?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "3"
+        },
+        {
+          "question": "What does a ring counter do in digital circuits?",
+          "options": [
+            "Add binary numbers",
+            "Shift data in a circular manner",
+            "Store binary data",
+            "Compare binary inputs"
+          ],
+          "answer": "Shift data in a circular manner"
+        },
+        {
+          "question": "Which Boolean expression simplifies A + A'B?",
+          "options": [
+            "A + B",
+            "A",
+            "B",
+            "A'"
+          ],
+          "answer": "A + B"
+        },
+        {
+          "question": "Which logic gate is called the universal gate?",
+          "options": [
+            "XOR gate",
+            "AND gate",
+            "NOR gate",
+            "NAND gate"
+          ],
+          "answer": "NAND gate"
+        },
+        {
+          "question": "What is the decimal equivalent of hexadecimal C?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "answer": "12"
+        },
+        {
+          "question": "Which Boolean law simplifies AB + A'B'?",
+          "options": [
+            "Idempotent law",
+            "Distributive law",
+            "Complement law",
+            "De Morgan's law"
+          ],
+          "answer": "Distributive law"
+        },
+        {
+          "question": "What is the purpose of a Karnaugh map?",
+          "options": [
+            "Perform addition",
+            "Simplify Boolean expressions",
+            "Store data",
+            "Shift bits"
+          ],
+          "answer": "Simplify Boolean expressions"
+        },
+        {
+          "question": "Which flip-flop is commonly used in memory storage devices?",
+          "options": [
+            "SR flip-flop",
+            "T flip-flop",
+            "D flip-flop",
+            "JK flip-flop"
+          ],
+          "answer": "D flip-flop"
+        },
+        {
+          "question": "Which gate produces a 1 when both inputs are different?",
+          "options": [
+            "AND gate",
+            "XOR gate",
+            "OR gate",
+            "NAND gate"
+          ],
+          "answer": "XOR gate"
+        },
+        {
+          "question": "What is a characteristic of a sequential circuit?",
+          "options": [
+            "No memory",
+            "Depends only on current input",
+            "Depends on past inputs",
+            "Has no feedback"
+          ],
+          "answer": "Depends on past inputs"
+        },
+        {
+          "question": "What does the output of a NOR gate depend on?",
+          "options": [
+            "Both inputs being 1",
+            "At least one input being 1",
+            "Both inputs being 0",
+            "At least one input being 0"
+          ],
+          "answer": "Both inputs being 0"
+        },
+        {
+          "question": "What is the primary function of a decoder?",
+          "options": [
+            "Convert binary information into multiple outputs",
+            "Store data",
+            "Shift bits",
+            "Perform comparison"
+          ],
+          "answer": "Convert binary information into multiple outputs"
+        },
+        {
+          "question": "Which component is at the heart of any CPU?",
+          "options": [
+            "Shift register",
+            "Multiplexer",
+            "Comparator",
+            "ALU"
+          ],
+          "answer": "ALU"
+        },
+        {
+          "question": "How many clock cycles are needed to transfer data through a 4-bit shift register?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "Which of the following is a key feature of combinational circuits?",
+          "options": [
+            "Has memory",
+            "Depends on current input",
+            "Depends on past input",
+            "Has feedback"
+          ],
+          "answer": "Depends on current input"
+        },
+        {
+          "question": "Which logic gate has an output of 1 only when all inputs are 0?",
+          "options": [
+            "NAND gate",
+            "NOR gate",
+            "XOR gate",
+            "AND gate"
+          ],
+          "answer": "NOR gate"
+        },
+        {
+          "question": "What is the result of the Boolean expression A + A'?",
+          "options": [
+            "0",
+            "1",
+            "A",
+            "A'"
+          ],
+          "answer": "1"
+        },
+        {
+          "question": "What does the carry-out signal in an ALU indicate?",
+          "options": [
+            "Overflow",
+            "Shift completed",
+            "Comparison result",
+            "Data transfer complete"
+          ],
+          "answer": "Overflow"
+        },
+        {
+          "question": "Which law in Boolean algebra states A + A' = 1?",
+          "options": [
+            "Distributive law",
+            "Complement law",
+            "Idempotent law",
+            "De Morgan's law"
+          ],
+          "answer": "Complement law"
+        },
+        {
+          "question": "What is the purpose of Boolean algebra in digital circuits?",
+          "options": [
+            "To store data",
+            "To perform shifts",
+            "To simplify logic",
+            "To increase complexity"
+          ],
+          "answer": "To simplify logic"
+        },
+        {
+          "question": "What is the binary equivalent of decimal 15?",
+          "options": [
+            "1101",
+            "1111",
+            "1011",
+            "1001"
+          ],
+          "answer": "1111"
+        },
+        {
+          "question": "Which device selects one of many inputs and directs it to the output?",
+          "options": [
+            "Decoder",
+            "Multiplexer",
+            "Shift register",
+            "Latch"
+          ],
+          "answer": "Multiplexer"
+        },
+        {
+          "question": "Which circuit is used to add two binary numbers?",
+          "options": [
+            "Multiplexer",
+            "Shift register",
+            "Half adder",
+            "Latch"
+          ],
+          "answer": "Half adder"
+        },
+        {
+          "question": "Which logic gate is called the universal gate?",
+          "options": [
+            "OR gate",
+            "AND gate",
+            "NAND gate",
+            "XOR gate"
+          ],
+          "answer": "NAND gate"
+        },
+        {
+          "question": "What is the purpose of a shift register in digital logic?",
+          "options": [
+            "Store binary data",
+            "Shift data between flip-flops",
+            "Perform comparison",
+            "Store multiple bits"
+          ],
+          "answer": "Shift data between flip-flops"
+        },
+        {
+          "question": "Which flip-flop is commonly used for counters?",
+          "options": [
+            "SR flip-flop",
+            "T flip-flop",
+            "D flip-flop",
+            "JK flip-flop"
+          ],
+          "answer": "T flip-flop"
+        }
+      ]
+    }
+  ]
+}
